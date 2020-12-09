@@ -71,7 +71,7 @@ npx docsify-cli init ./docs
 使うなら、`index.html` ファイルがあるフォルダに移動して、シェル上で次のように実行する。
 
 ```bash
-python -m http.server port 3000
+python -m http.server 3000
 ```
 
 `npx` を使うなら、ドキュメントのフォルダを指定して次のように実行する。
