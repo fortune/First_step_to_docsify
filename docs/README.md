@@ -124,7 +124,7 @@ npx docsify-cli serve ./docs/
 リポジトリのルートに `docs/` という名前でドキュメント用のフォルダをつくり、そこに
 docsify の `index.html` を置いておく。GitHub Pages の設定は https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html でも見てください。
 
-このサンプルの [GitHub でのリポジトリ]()
+このサンプルの [GitHub でのリポジトリ](https://github.com/fortune/First_step_to_docsify)
 
 GitHub Pages 以外でも GitLab Pages というのもあるようです。
 
